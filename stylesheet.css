@@ -1,6 +1,30 @@
 div {
 	border-radius: 5px;
 }
+.right{
+    height:50px;
+    width:100px;
+    background-color:black;
+}
+
+.left{
+    height:100px;
+    width:200px;
+    background-color:green;
+}
+
+#header{
+    height:100px;
+    width:100px;
+    background-color:red;
+}
+
+#footer{
+    height:200px;
+    width:200px;
+    background-color:blue;
+}
+
 /*
 #header {
 	z-index: 1;
