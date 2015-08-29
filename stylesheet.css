@@ -17,6 +17,8 @@ div {
     height:100px;
     width:100px;
     background-color:red;
+    position:fixed;
+    z-index:1;
 }
 
 #footer{
