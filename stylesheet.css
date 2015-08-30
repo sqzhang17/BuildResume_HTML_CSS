@@ -1,16 +1,19 @@
-div {
-	border-radius: 5px;
+div{
+    border-radius:5px;
 }
+
 .right{
     height:50px;
     width:100px;
     background-color:black;
+    float:right;
 }
 
 .left{
     height:100px;
     width:200px;
     background-color:green;
+    float:left
 }
 
 #header{
@@ -25,6 +28,7 @@ div {
     height:200px;
     width:200px;
     background-color:blue;
+    clear:both;
 }
 
 /*
