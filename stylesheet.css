@@ -24,11 +24,15 @@ div{
     z-index:1;
 }
 
-#footer{
-    height:200px;
-    width:200px;
-    background-color:blue;
-    clear:both;
+#footer {
+	position: relative;
+	height: 50px;
+	background-color: #668284;
+	clear: both;
+	font-family: Verdana, sans-serif;
+	font-size: 14px;
+	text-align: center;
+	color: #ffffff;
 }
 
 /*
@@ -102,16 +106,7 @@ a:hover {
 	margin-bottom: 10px;
 }
 
-#footer {
-	position: relative;
-	height: 50px;
-	background-color: #668284;
-	clear: both;
-	font-family: Verdana, sans-serif;
-	font-size: 14px;
-	text-align: center;
-	color: #ffffff;
-}
+
 
 #footer p {
 	position: relative;
